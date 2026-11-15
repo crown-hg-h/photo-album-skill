@@ -1,0 +1,4 @@
+interface:
+  display_name: "相册制作"
+  short_description: "按原稿分组制作摄影拼贴相册，保留原片人物、诗句与自然手撕边，设计序言并导出整册"
+  default_prompt: "使用 $photo-album，按我的原片分组和诗句制作相册，先完成一张跨页样张再批量制作。"
